@@ -9,7 +9,9 @@ Criar um projeto typescript com:
 -Um arquivo index.ts que alimente a página HTML com os dados de um objeto da classe Person com seus dados como atributos.
 
 Disciplina: Tópicos Especiais em Sistemas para Internet II
+<br>
 Curso: Sistemas para Internet
+<br>
 Faculdade: Fatec Rubens Lara 
 
 [See on StackBlitz ⚡️](https://typescript-classes-exercicio.stackblitz.io)
