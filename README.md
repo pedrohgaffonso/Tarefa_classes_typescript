@@ -15,3 +15,4 @@ Curso: Sistemas para Internet
 Faculdade: Fatec Rubens Lara 
 
 [See on StackBlitz ⚡️](https://typescript-classes-exercicio.stackblitz.io)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-classes-exercicio)
